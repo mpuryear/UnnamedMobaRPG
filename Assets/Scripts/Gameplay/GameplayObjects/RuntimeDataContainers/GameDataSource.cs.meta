@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3d9986e713eee06478443c5246f2963e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_GeneralChaseActionPrototype: {fileID: 11400000, guid: f5489aca0ec59784984975a56e5100e8, type: 2}
+  - m_GeneralTargetActionPrototype: {fileID: 11400000, guid: f5489aca0ec59784984975a56e5100e8, type: 2}
+  - m_ReviveActionPrototype: {fileID: 11400000, guid: f5489aca0ec59784984975a56e5100e8, type: 2}
+  - m_StunnedActionPrototype: {fileID: 11400000, guid: f5489aca0ec59784984975a56e5100e8, type: 2}
+  - m_DropActionPrototype: {fileID: 11400000, guid: f5489aca0ec59784984975a56e5100e8, type: 2}
+  - m_PickupActionPrototype: {fileID: 11400000, guid: f5489aca0ec59784984975a56e5100e8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

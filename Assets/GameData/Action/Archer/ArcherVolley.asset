@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e81da69fd2448e746aaa517212378f33, type: 3}
+  m_Name: ArcherVolley
+  m_EditorClassIdentifier: 
+  Config:
+    Logic: 8
+    Amount: 100
+    ManaCost: 2
+    Range: 20
+    DurationSeconds: 1
+    ExecTimeSeconds: 0.1
+    EffectDurationSeconds: 0
+    ReuseTimeSeconds: 0
+    AnimAnticipation: AnticipateMove
+    Anim: Attack2
+    Anim2: 
+    ReactAnim: 
+    OtherAnimatorVariable: 
+    SplashDamage: 0
+    MoveSpeed: 0
+    KnockbackSpeed: 0
+    KnockbackDuration: 0
+    Radius: 6
+    ActionInput: {fileID: 8447158110562487606, guid: 8779efeb3012da04389c3d08877f8a87, type: 3}
+    ActionInterruptible: 0
+    IsInterruptableBy: []
+    BlockingMode: 0
+    Projectiles: []
+    Spawns:
+    - {fileID: 2232111375016833989, guid: e52f8abf71226414ab4a9817716091f7, type: 3}
+    IsFriendly: 0
+    Icon: {fileID: 21300000, guid: a6ec8825aed32a4429df5e20eb9a9986, type: 3}
+    DisplayedName: Volley
+    Description: Fire a stream of arrows at a target, hitting everyone in an area.
