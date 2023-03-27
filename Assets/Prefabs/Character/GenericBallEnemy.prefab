@@ -241,7 +241,7 @@ MonoBehaviour:
   m_NetworkNameState: {fileID: 0}
   m_BaseHP: {fileID: 11400000, guid: c767829d0afa9ef4aaafe5774289113b, type: 2}
   m_TransformToTrack: {fileID: 873587679714160132}
-  m_VertialWorldOffset: 2.2
+  m_VertialWorldOffset: 2
   m_VerticalScreenOffset: 20
 --- !u!114 &5918942531771559292 stripped
 MonoBehaviour:
